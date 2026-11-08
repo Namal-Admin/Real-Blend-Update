@@ -1,0 +1,6 @@
+{
+  "name": "The Real Blend | Kenya Digital News & Entertainment",
+  "description": "Kenya's premier digital news and entertainment platform bringing you breaking news, politics, entertainment, sports, lifestyle, and trending stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
